@@ -202,3 +202,4 @@ errorbar <- function(x, y, sd.lwr, sd.upr, horiz = FALSE, cex = 1, ...) {
 }
 
 #gap.barplot(a,borders='white',brk.bg='white',border='white',col=2:6)
+#for (i in 1:27){gap.barplot(df[i,],border='white',main=rownames(df)[i],col=c('deepskyblue2','limegreen','lightsalmon','indianred1','darkorchid1','orange','olivedrab3'))}
